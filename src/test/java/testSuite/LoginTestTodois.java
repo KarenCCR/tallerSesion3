@@ -44,7 +44,7 @@ public class LoginTestTodois {
         loginSection.clickRegisterLink();
 
         // Step 3: Enter email for registration
-        loginSection.registerEmailTextBox("operadornotificaciones.eduardo@gmail.com");
+        loginSection.registerEmailTextBox("operadornotificaciones.karen@gmail.com");
 
         // Step 4: Enter password for registration
         loginSection.registerPasswordTextBox("12345678!!!BBa");
@@ -62,7 +62,7 @@ public class LoginTestTodois {
         loginSection.clickbuttondirecional();
 
         // Step 8: Enter email for login
-        loginSection.registerEmailTextBoxValidado("operadornotificaciones.eduardo@gmail.com");
+        loginSection.registerEmailTextBoxValidado("operadornotificaciones.karen@gmail.com");
 
         // Step 9: Enter password for login
         loginSection.registerPasswordValidadoTextBox("12345678!!!BBa");
